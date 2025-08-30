@@ -1,5 +1,3 @@
-
-
 export default function Header() {
   return (
     <header className="header">
@@ -7,7 +5,7 @@ export default function Header() {
         <div className="nav">
           <div className="logo">
             <div className="avatar"></div>
-            <span>Kashish singh</span>
+            <span>khushi singh</span>
           </div>
           <nav className="nav-links">
             <a href="#home">Home</a>

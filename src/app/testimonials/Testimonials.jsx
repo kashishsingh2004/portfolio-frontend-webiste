@@ -1,14 +1,14 @@
 const testimonials = [
   {
-    name: "Priya",
+    name: "chhaya",
     text: "Excellent work! The website exceeded our expectations. Professional and timely delivery.",
   },
   {
-    name: "Arjun",
+    name: "chhotki",
     text: "Outstanding developer with great attention to detail. Highly recommended for web projects.",
   },
   {
-    name: "Ravi",
+    name: "krish",
     text: "Built our company website perfectly. Great communication throughout the project.",
   },
 ];

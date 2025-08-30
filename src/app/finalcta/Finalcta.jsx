@@ -3,7 +3,7 @@ export default function Finalcta() {
   return (
     <section className="final-cta">
       <div className="container">
-        <h2>Kashish singh</h2>
+        <h2>Khushi singh</h2>
         <p>Top freelance developer</p>
         <p>
           I design and develop websites that are both elegant, intuitive, and
@@ -21,7 +21,6 @@ export default function Finalcta() {
             <span>React</span>
             <span>Node</span>
             <span>Nextjs</span>
-            <span>ReactNative</span>
           </div>
         </div>
       </div>

@@ -6,7 +6,7 @@ export default function Hero() {
         <div className="hero-content">
           <div className="hero-text">
             <h1>
-              Hello, I&apos;m <span className="highlight">Kashish singh</span>
+              Hello, I&apos;m <span className="highlight">Khushi singh</span>
             </h1>
             <h2>I design and develop websites.</h2>
             <p>I can design your brand image, logo, banner, and much more.</p>
